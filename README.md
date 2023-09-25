@@ -32,3 +32,13 @@ languages:
 - c++ (long time no see, but enough for maya api and unreal engine)
 ```
 
+#### some stuff one can find here:  
+maybe useful:  
+[generate dailies](https://github.com/blockinhead/generate-dailies) - a python script to make mov from exr sequence with respect to color space. that is not mine, but my pull request that makes it work is not accepted yet.  
+[precomposer](https://github.com/blockinhead/oiio_precompose) - a python script to precompose exr sequences
+
+not useful, but fun:  
+[snake](https://github.com/blockinhead/bevy_snake) - a [playable](https://blockinhead.github.io/bevy_snake/) snake game written on rust with bevy
+[raytracer](https://github.com/blockinhead/rtiow) - a clear example why one should not use pure python for extensive computations  
+[split uv shells](https://github.com/blockinhead/splitUvShells) - an old maya c++ plugin to separate geometry by uv shells. was used for maya to mudbox pipeline  
+[python](https://github.com/blockinhead/algo_python) and [rust](https://github.com/blockinhead/algo_rust) algorithmic tasks like from the leetcode and codewars    
